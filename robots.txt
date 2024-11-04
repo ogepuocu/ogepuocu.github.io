@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogepuocu.github.io/Cto/sitemap_index.txt
+Sitemap: https://ogepuocu.github.io/UAp/sitemap_index.txt
+Sitemap: https://ogepuocu.github.io/cXP/sitemap_index.txt
+Sitemap: https://ogepuocu.github.io/pce/sitemap_index.txt
